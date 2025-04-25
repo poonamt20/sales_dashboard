@@ -1,0 +1,6 @@
+order_id,order_date,customer,category,product,sales,profit,region
+101,2024-01-10,Alice,Electronics,Laptop,1200,200,North
+102,2024-01-12,Bob,Furniture,Chair,150,30,South
+103,2024-01-15,Charlie,Clothing,T-Shirt,25,5,West
+104,2024-02-01,David,Electronics,Smartphone,800,120,North
+105,2024-02-05,Eve,Furniture,Desk,300,50,South
